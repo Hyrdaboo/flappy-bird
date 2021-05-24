@@ -13,7 +13,8 @@ Mobile: tap
 * Assets used in game including sounds, fonts and images
 
 ### Cloning this repository
-```gg```
+```git clone https://github.com/mrdoob/three.js.git
+```
 
 ### Available on itch.io
 
