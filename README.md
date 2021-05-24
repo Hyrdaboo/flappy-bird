@@ -12,6 +12,9 @@ Mobile: tap
 * game script
 * Assets used in game including sounds, fonts and images
 
+### Cloning this repository
+```gg```
+
 ### Available on itch.io
 
 [Play Game](https://hyrdaboo.itch.io/flappy-bird)
