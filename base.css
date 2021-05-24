@@ -1,0 +1,37 @@
+body {
+    user-select:none;    
+}
+canvas {
+border: 1px solid initial;
+background: black;
+width: 100%;
+position: fixed;
+top: 0;
+left: 0;
+height: 100%;
+}
+#score{
+position: relative;
+z-index: 99;
+font-weight: bold;
+text-align: center;
+font-size: 3em;
+color:black;
+font-family: 'Karmatic Arcade'; 
+font-weight: normal; 
+font-style: normal;
+}
+#user-message{
+position: relative;
+z-index: 99;
+margin-top:25%;
+font-family: 'Karmatic Arcade';
+font-weight: bold;
+text-align: center;
+font-size: 2em;			
+}
+#restart{
+position:fixed;
+bottom:25%;
+display:none;
+} 
