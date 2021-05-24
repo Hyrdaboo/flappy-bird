@@ -13,7 +13,7 @@ Mobile: tap
 * Assets used in game including sounds, fonts and images
 
 ### Cloning this repository
-```git clone https://github.com/mrdoob/three.js.git
+```git clone https://github.com/Hyrdaboo/flappy-bird-for-beginners
 ```
 
 ### Available on itch.io
